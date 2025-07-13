@@ -34,8 +34,11 @@ https://tailwindcss.com/docs/installation/
 
 ## v3
 
+https://v3.tailwindcss.com/docs/installation/using-postcss
+
 ```bash
 npm install -D tailwindcss@3 postcss autoprefixer
+npx tailwindcss init
 ```
 
 ## v4
