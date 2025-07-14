@@ -32,16 +32,17 @@ https://tailwindcss.com/
 https://tailwindcss.com/docs/installation/
 
 
-## v3
+## TW v3
 
 https://v3.tailwindcss.com/docs/installation/using-postcss
+https://v3.tailwindcss.com/docs/guides/vite
 
 ```bash
 npm install -D tailwindcss@3 postcss autoprefixer
 npx tailwindcss init
 ```
 
-## v4
+## TW v4
 
 https://tailwindcss.com/docs/installation/using-vite
 
@@ -49,3 +50,11 @@ https://tailwindcss.com/docs/installation/using-vite
 npm install -D tailwindcss @tailwindcss/vite
 
 ```
+
+## SB v8
+
+https://storybook.js.org/docs/8/get-started/install
+
+## SB v9
+
+https://storybook.js.org/docs/get-started/install
